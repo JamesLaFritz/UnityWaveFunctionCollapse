@@ -1,0 +1,6 @@
+grass 0, grass 0, grass 0, cliffturn 3, cliffcorner 1, grass 0, 
+grass 0, cliffturn 3, cliff 2, cliffcorner 1, grass 0, cliffturn 3, 
+grass 0, cliff 3, grass 0, grass 0, cliffturn 3, cliffcorner 1, 
+grass 0, cliff 3, grass 0, cliffturn 3, cliffcorner 1, grass 0, 
+cliff 2, cliffcorner 1, grass 0, cliff 3, grass 0, watercorner 3, 
+grass 0, grass 0, cliffturn 3, cliffcorner 1, grass 0, waterside 3, 

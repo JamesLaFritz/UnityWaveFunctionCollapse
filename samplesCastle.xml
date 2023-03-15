@@ -1,0 +1,10 @@
+<samples>
+  <simpletiled name="Castle" N="8" size="100" heuristic="MRV"/>
+  <simpletiled name="Castle" N="8" size="100" />
+  <simpletiled name="Castle" N="3" size="100" />
+
+  <overlapping name="Dungeon" N="6" periodic="True"/>
+  <overlapping name="Dungeon" N="1" periodic="True"/>
+  <overlapping name="Dungeon" N="8" periodic="True"/>
+  <overlapping name="Dungeon" N="4" periodic="True"/>
+</samples>
